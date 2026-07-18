@@ -2,7 +2,7 @@
   "engines": {
     "nodes": "20.10.0"
   },
-  "name": "majorproject",
+  "name": "majnpm installorproject",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -20,11 +20,11 @@
     "dotenv": "^16.4.5",
     "ejs": "^3.1.9",
     "ejs-mate": "^4.0.0",
-    "express": "^4.18.2",
+    "express": "^4.22.2",
     "express-session": "^1.18.0",
     "joi": "^17.13.3",
     "method-override": "^3.0.0",
-    "mongoose": "^8.0.3",
+    "mongoose": "^8.24.1",
     "multer": "^1.4.5-lts.1",
     "multer-storage-cloudinary": "^4.0.0",
     "nodemon": "^3.0.3",
